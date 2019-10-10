@@ -1,0 +1,41 @@
+
+.card 
+
+{ 
+    margin: 50px;
+    padding: 300px;
+}
+.card .image
+{
+    position: relative;
+ 
+}
+.card .image ul
+{
+    position: absolute
+}
+.card .image ul .fas fa-chevron-left{
+position: absolute
+}
+ul{
+
+}
+
+.card .image img
+{
+
+}
+.card .image .date_time_view
+{
+}
+.card .image .date_time_view p
+{
+    
+}
+.card .title
+{
+
+}
+.card .title p{
+
+}
